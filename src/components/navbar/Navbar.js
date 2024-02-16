@@ -1,9 +1,18 @@
 import React from 'react'
+import { RiMenu3Line, RiCloseLine } from "react-icons/ri";
+import logo from "../../assets/logo.svg"
 import "./navbar.css"
+
 
 function Navbar() {
   return (
-    <div>Navbar</div>
+    <div className='gpt3_navbar'>
+      <div className='gpt3_navbar-links'>
+        <div className='gpt3_navbar-links_logo'>
+          <img src={logo} alt='logo' />
+        </div>
+      </div>
+    </div>
   )
 }
 
