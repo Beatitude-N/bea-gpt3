@@ -1,7 +1,7 @@
 import React from 'react'
 import "./footer.css"
 
-function Article() {
+function Footer() {
   return (
     <div>Footer</div>
   )
