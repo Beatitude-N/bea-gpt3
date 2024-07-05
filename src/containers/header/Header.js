@@ -10,6 +10,7 @@ amazing with GPT-3
 OpenAI
 </h1>
 
+
       </div>
    
       </div>
