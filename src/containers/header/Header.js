@@ -14,8 +14,12 @@ function Header() {
         <input type='email' placeholder='Your Email Address'/>
         <button type='button'>Get Started</button>
       </div>
+      <div className='gpt3__header-content__people'>
+        <img src={people}/>
       </div>
-   
+
+
+      </div>
       </div>
   )
 }
