@@ -1,6 +1,6 @@
 import React from 'react'
 import "./header.css"
-
+import people from "../../assets/people.png"
 function Header() {
   return (
     <div className='gpt3__header section__padding' id='home'>
