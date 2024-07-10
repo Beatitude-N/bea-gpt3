@@ -14,14 +14,14 @@
     font-family: var(--font-family);
     font-weight: 800;
     font-size: 42px;
-    line-height: 75px;
+    line-height: 65px;
     letter-spacing: -0.04em;
 }
 
 .gpt3__header-content p {
     font-family: var(--font-family);
     font-weight: 400;
-    font-size: 20px;
+    font-size: 18px;
     line-height: 28px;
     color: var(--color-text);
 
