@@ -23,9 +23,6 @@ function Header() {
         <img src={ai} alt='ai' />
       </div>
 
-
-
-
       </div>
       </div>
   )
