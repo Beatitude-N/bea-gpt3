@@ -3,7 +3,9 @@ import "./article.css"
 
 function Article() {
   return (
-    <div>Article</div>
+    <div>
+      {/* Article */}
+      </div>
   )
 }
 

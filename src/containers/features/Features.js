@@ -3,7 +3,9 @@ import "./features.css"
 
 function Features() {
   return (
-    <div>Features</div>
+    <div>
+      {/* Features */}
+      </div>
   )
 }
 
