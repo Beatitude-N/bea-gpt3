@@ -19,5 +19,4 @@ const WhatGPT3 = () => (
   </div>
 );
 
-
 export default WhatGPT3;
